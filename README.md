@@ -1,2 +1,3 @@
 # Python
-These are the files which consists my practice files.
+This directory has my python practice files.
+
